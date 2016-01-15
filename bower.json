@@ -1,0 +1,18 @@
+{
+  "name": "my-description",
+  "description": "Developers has to describe themselves here",
+  "authors": [
+    "sunny"
+  ],
+  "license": "unlicensed",
+  "keywords": [
+    "angular"
+  ],
+  "moduleType": [
+    "es6",
+    "node"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  }
+}
