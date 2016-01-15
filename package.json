@@ -1,0 +1,37 @@
+{
+  "name": "my-description",
+  "version": "1.0.0-alfa",
+  "description": "Developers has to describe themselves here.",
+  "authors": [
+    "Sunny",
+    "Abhishek"
+  ],
+  "contributors": [
+    {
+      "name": "Sunny",
+      "email": "sunnyjhamail@gmail.com"
+    },
+    {
+      "name": "Sunny",
+      "email": "abhishek.karna@gmail.com"
+    }
+  ],
+  "scripts": {
+    "predeploy": "I am about to deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunny-jha/Angular-Java-Setup.git"
+  },
+  "keywords": {
+    "angular": "angular",
+    "bower": "bower",
+    "npm": "npm",
+    "node": "node"
+  },
+  "dependencies": {
+    "angular": "^1.4.8",
+    "bower": "^1.7.2",
+    "gulp": "^3.9.0"
+  }
+}
