@@ -1,3 +1,14 @@
-<div>
-    Hello friend i m sunny  jha kumar jha
-</div>
+<!doctype html>
+<html ng-app="myDescription">
+<head>
+    <script src="/bower_components/angular/angular.min.js"></script>
+    <script src="/bower_components/angular-ui-router/release/angular-ui-router.min.js"></script>
+    <script src="/app/app.module.js"></script>
+    <script src="/app/login/login.controller.js"></script>
+</head>
+<body>
+    This is the body section
+    <a ui-sref="login"> GoTo Login </a>
+    <div ui-view> </div>
+</body>
+</html>

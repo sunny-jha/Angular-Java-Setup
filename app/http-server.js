@@ -1,6 +1,6 @@
 var http = require('http');
 var fs = require('fs');
-var html = fs.readFileSync('app/index.html');
+var html = fs.readFileSync('index.html');
 const PORT = 1992;
 
 function handleRequest(request, response) {
